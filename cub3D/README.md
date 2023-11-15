@@ -7,7 +7,7 @@ https://github.com/kieubo90/cub3D/assets/88286643/4342f75d-facf-4dd6-a30e-ff9f48
 
 🔗 [Watch more projects on my channel](https://www.youtube.com/@vuphong3349/videos)
 
-🎯 Project Aim: Elevating Dimensions with the Ray Casting Technique
+🎯 Project Aim: Elevating Dimensions with the <a href="https://lodev.org/cgtutor/raycasting.html">Ray Casting Technique</a>
 
 Welcome to our innovative project, where we ambitiously venture into the realm of graphical transformation, converting 2D visuals into immersive 3D experiences by harnessing the power of the Ray Casting technique. This project is not merely a demonstration of graphical conversion but a testament to the seamless integration of mathematical computations and graphical rendering to create a visually stunning and interactive 3D environment from a 2D base.
 
