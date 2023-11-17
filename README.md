@@ -1,3 +1,3 @@
-# Hive-Projects Not Done with Push_swap
+# Hive-Projects
 
 These are Hive's projects base learning.
