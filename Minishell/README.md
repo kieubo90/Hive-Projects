@@ -6,6 +6,7 @@ Link to this project video: https://youtu.be/BgTHw6t3qzk</a>
 We need readline library to be able to run this project <br>
 If you are using linux, first run this command: sudo apt-get install libreadline-dev <br>
 else if you are using MacOs,  first run this command: brew install readline <br>
+You can bash memory_loop.sh
 
 ## Overview
 
