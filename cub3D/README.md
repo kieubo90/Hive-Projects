@@ -3,7 +3,7 @@ At the moment we have not include the mlx library in the repo yet. So you need m
 This project was inspired by Wolfenstein 3D:
 http://wolf3d.atw.hu/
 
-https://github.com/kieubo90/cub3D/assets/88286643/4342f75d-facf-4dd6-a30e-ff9f485b26d4
+https://github.com/kieubo90/Hive-Projects/assets/88286643/be54e490-7fe0-430f-b49f-64934a0547de
 
 🔗 [Watch more projects on my channel](https://www.youtube.com/@vuphong3349/videos)
 
