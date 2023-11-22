@@ -5,7 +5,11 @@ THis is how my game looks like:
 
 <img width="501" alt="Screen Shot 2023-11-22 at 14 31 27" src="https://github.com/kieubo90/Hive-Projects/assets/88286643/1eafbb62-3d04-4ac3-8ced-a0ea350da4f2">
 
-https://github.com/kieubo90/Hive-Projects/assets/88286643/67de81a6-b1e3-4783-b81f-bb1b7533c9ea
+
+
+https://github.com/kieubo90/Hive-Projects/assets/88286643/f32ed74f-e9c7-4e49-84f0-5a7c2888f475
+
+
 
 
 
