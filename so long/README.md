@@ -3,7 +3,10 @@ A project of 42 coding school, I have to code a very simple 2D game, which has a
 We have to use Minilibx library which developed by 42 coding school. So it is necessary to. find minilibx library and install it in advance to use this code project.
 THis is how my game looks like:
 
-<img width="500" alt="Screen Shot 2023-06-17 at 11 07 04 AM" src="https://github.com/kieubo90/so_long-Hive-s-project/assets/88286643/ff87520b-b54f-4ed4-8c0d-20bc4509ef79">
+<img width="501" alt="Screen Shot 2023-11-22 at 14 31 27" src="https://github.com/kieubo90/Hive-Projects/assets/88286643/1eafbb62-3d04-4ac3-8ced-a0ea350da4f2">
+
+https://github.com/kieubo90/Hive-Projects/assets/88286643/67de81a6-b1e3-4783-b81f-bb1b7533c9ea
+
 
 
 And the requirements to make this game:
